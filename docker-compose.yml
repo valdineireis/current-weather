@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - '8080:8080'
+    # Carrega as variáveis de ambiente do arquivo .env
+    env_file:
+      - .env
