@@ -1,5 +1,8 @@
 # current-weather-api-go
 
+🔗 Projeto publicado no **Google Cloud Run**:
+[run.app/weather/01001000](https://current-weather-api-go-1059480473666.southamerica-east1.run.app/weather/01001000)
+
 <details>
 <summary>Descrição</summary>
 
